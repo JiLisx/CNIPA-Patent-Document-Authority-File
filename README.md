@@ -12,10 +12,12 @@ For detailed information, please refer to the official CNIPA resources:
 
 ## Download Links
 
-**Current Version**:
-- [CN Authority file 20251231](https://www.dropbox.com/scl/fo/cp4zes7i3nsmahowennh3/AHyRm0thI2jfRyR5COwzNOY?rlkey=ftwfg5zn2eghxlsph55wriq4d&dl=0)
+**Current Version**
+- [CN authority file 20260630](https://www.dropbox.com/scl/fo/4f2w2ge187ypt8v755lae/ADkQa_H4KFd2FwrpJT6t2dg?rlkey=yuaah2zim56ljzc1cruj8uqyz&dl=0)
 
 **Historical Versions**
+
+- [CN Authority file 20251231](https://www.dropbox.com/scl/fo/cp4zes7i3nsmahowennh3/AHyRm0thI2jfRyR5COwzNOY?rlkey=ftwfg5zn2eghxlsph55wriq4d&dl=0)
 
 - [CN Athority file 20250630](https://www.dropbox.com/scl/fo/w2lowuct5a30nlw7ftc70/ANLKooOM5yKV3XxrU9p6BV0?rlkey=ir98fz2scq4fgcu20y24nix0d&st=hwavklwy&dl=0)
 
